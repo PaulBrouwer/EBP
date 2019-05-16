@@ -6,9 +6,9 @@ Based on the Meyer Brigs Type Indicator, I created four different persona's. The
 
 ![](../../.gitbook/assets/image%20%285%29.png)
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 

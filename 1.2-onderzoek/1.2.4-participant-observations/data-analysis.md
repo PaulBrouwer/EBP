@@ -23,9 +23,9 @@ The main goal was to find corresponding events that occur on all the portals, or
 
 Firstly, the version option has a high bounce rate at both Peugeot and Citroën configurators. A fourth of the visitors left instantly when arriving at the version option. 
 
-![Configurator Peugeot](../../.gitbook/assets/image%20%2812%29.png)
+![Configurator Peugeot](../../.gitbook/assets/image%20%2813%29.png)
 
-![Configurator Citro&#xEB;n](../../.gitbook/assets/image%20%2826%29.png)
+![Configurator Citro&#xEB;n](../../.gitbook/assets/image%20%2827%29.png)
 
 
 
@@ -57,5 +57,5 @@ Insights:
 
 The landing of DS Automobiles lacks structure and feels unsafe. The first impressions says it all, while this landing is not inviting. 
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
