@@ -39,6 +39,8 @@
 * [\#4 Follow up research](4-follow-up-research/README.md)
   * [Q&Onboarding V4](4-follow-up-research/q-and-onboarding-v4.md)
   * [Greenlight Presentation](4-follow-up-research/greenlight-presentation.md)
+  * [Interviews](4-follow-up-research/interviews/README.md)
+    * [Interview \#1 customer-service employee PICNIC](4-follow-up-research/interviews/interview-1-customer-service-employee-picnic.md)
   * [Scenario's \(Job Stories\)](4-follow-up-research/scenarios-job-stories.md)
 * [∞: Requirement list](4-documentation.md)
 * [Literature](literature.md)
