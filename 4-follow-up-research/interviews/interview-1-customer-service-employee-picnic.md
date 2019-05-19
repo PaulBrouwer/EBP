@@ -1,4 +1,4 @@
-# Interview \#1 customer-service employee PICNIC
+# Interview \#1 customer-service employee at PICNIC
 
 The Employee Benefit Program was set up by Peugeot to fix the mobility programs employer have with their employees. Employees who are entitled to the program can lease a car of one of the three Peugeot brands which discount per month. Your company could be partner of the program, which means you could be entitled. My name is Paul Brouwer and I am conducting target group research to gather information of the wants and needs of people who are looking for a car. 
 
