@@ -32,7 +32,13 @@ Well, than I think asking for demographic data is a good starting point. When yo
 
 _In addition to demarcate the outcomes I thought of asking what kind of options their car must have and what could have. What do you think of that?_
 
-That would work like a funnel. 
+That would work like a funnel. Start with a basal questions and than make it more nuanced. In the end, the data that would be generated could be valuable for Peugeot as well. I do not know if that is your case as well, but it could work.
+
+_That is a bit too complicated but it would indeed! My biggest challenge actually is to connect the users. They not only should configure their contract, but also extend or configure again. A good example is the Helix Sleep quiz, which let you find the right matress by asking simple questions beforehand. I am trying to create something similar._ 
+
+It think it is a really cool project. At Audi you can configure everything, a questionnaire beforehand is really nice when someone has no interests for all that nonsense.  
+
+\_\_
 
 
 
