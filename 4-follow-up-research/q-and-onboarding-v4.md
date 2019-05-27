@@ -1,4 +1,4 @@
-# Q&Onboarding V4
+# Q&Onboarding V4.1 & V4.2
 
 After the green-light presentation, I decided to take the feedback from my mentors into account and add the budget indication as a question. In the first version of the Q&Onboarding, I asked for a minimum and maximum price, in the new version I want to use only one price. In this way users simply can what consider to pay as a monthly fee. When the users receives their offer, they get an indication of the possibilities and how much it differs from their offer. It is up to the user to decide if they pay a little bit less or more for the desired car. 
 
