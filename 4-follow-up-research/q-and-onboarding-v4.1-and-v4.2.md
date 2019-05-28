@@ -72,11 +72,13 @@ At the fifth test, the test person had some questions about the process as a who
 
 Also at the fifth test, the testperson was confused by the types of car. The icons in combination with the terms did not speak to the test person's mind. The testperson, at some point, said that the icon of the MPV \(multi purpose vehicle\) looked bigger than the compact car. Also at the level of options the testperson was confused. The terms were not clear, so the testperson suggested to use 'version' over 'options'. In contradiction I said that the version depends on the chosen options. I mentioned that choosing between three levels for options, is the same thing as ranking luxury on place 1 and 2, 3 and 4 or 5. Whereafter the testperson preferred to rank instead of choosing abstract levels. 
 
+As tip the testperson mentioned to have the ability to skip the first step. Some people do not like to fill in their names and personal data. These days privacy is everything, so asking for such personal data could offend people and cause exits. 
+
 ![](../.gitbook/assets/image%20%2812%29.png)
 
 ####  
 
-
+### 
 
 . 
 
