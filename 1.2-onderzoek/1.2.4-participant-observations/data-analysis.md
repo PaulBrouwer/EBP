@@ -23,9 +23,9 @@ The main goal was to find corresponding events that occur on all the portals, or
 
 Firstly, the version option has a high bounce rate at both Peugeot and Citroën configurators. A fourth of the visitors left instantly when arriving at the version option. 
 
-![Configurator Peugeot](../../.gitbook/assets/image%20%2813%29.png)
+![Configurator Peugeot](../../.gitbook/assets/image%20%2821%29.png)
 
-![Configurator Citro&#xEB;n](../../.gitbook/assets/image%20%2827%29.png)
+![Configurator Citro&#xEB;n](../../.gitbook/assets/image%20%2835%29.png)
 
 
 
@@ -42,7 +42,7 @@ Another high bounce rate that occurred at Peugeot and Citroën was the car optio
 
 These amounts occurred on desktop, the bounce rates on mobile and tablet were even higher for Peugeot. Tablet reaches 68,5% and mobile 80,51%. On the other hand, Citroën does it better when it comes to portable devices. The car option page reduces in bounce rate to 50% on tablet and 58% on mobile. Let us have a look at the designs.
 
-![Contract options at configurators](../../.gitbook/assets/image%20%288%29.png)
+![Contract options at configurators](../../.gitbook/assets/image%20%2815%29.png)
 
 When comparing the three designs it becomes more clear why the bounce rate is significantly higher at Peugeot and Citroën than at DS Automobiles. The options at DS Automobiles are structured in clear sections whereas Peugeot and Citroën use simple vertical alignments.
 
@@ -57,5 +57,5 @@ Insights:
 
 The landing of DS Automobiles lacks structure and feels unsafe. The first impressions says it all, while this landing is not inviting. 
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 

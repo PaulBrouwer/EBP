@@ -6,5 +6,5 @@ The Employee Benefit Program was set up by Peugeot. Peugeot has multiple collabo
 
 
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 

@@ -8,7 +8,7 @@ The first test went really well. During the test I asked the participant about t
 
 
 
-![User test \#1](../../../.gitbook/assets/image%20%286%29.png)
+![User test \#1](../../../.gitbook/assets/image%20%2811%29.png)
 
 When I asked the participant what the participant thought of the questionnaire, the reaction was highly positive. The fact that a system could generate the best selection of vehicles by answering five short questions turned out to be personal and user friendly. 
 

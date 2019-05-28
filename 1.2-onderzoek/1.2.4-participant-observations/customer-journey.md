@@ -8,7 +8,7 @@ With the insights of the participant observations, I was able to create a custom
 
 ## The Journey visualised
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 
 

@@ -4,7 +4,7 @@ After the green-light presentation, I decided to take the feedback from my mento
 
 Another subject I decided to add was gender. As women and men have a different perspective of the car's identity, the questionnaire needs two different approaches. One for men, and one for women. Men tend to be more image conscious and let emotion influence their buying, whereas women tend to be more utility minded. Also, men and women differ from each other in values. For men a car has to have personality, which means they look at the interior layout and technology. Women on the other hand, see a car as something practical which means they look at durability and reliability. 
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
