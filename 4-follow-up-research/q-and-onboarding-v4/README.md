@@ -6,9 +6,9 @@ After the green-light presentation, I decided to take the feedback from my mento
 
 Another subject I decided to add was gender. As women and men have a different perspective of the car's identity, the questionnaire needs two different approaches. One for men, and one for women. Men tend to be more image conscious and let emotion influence their buying, whereas women tend to be more utility minded. Also, men and women differ from each other in values. For men a car has to have personality, which means they look at the interior layout and technology. Women on the other hand, see a car as something practical which means they look at durability and reliability. 
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
-![Figures: https://www.cjponyparts.com/resources/men-vs-women-car-buying](../../.gitbook/assets/image%20%2836%29.png)
+![Figures: https://www.cjponyparts.com/resources/men-vs-women-car-buying](../../.gitbook/assets/image%20%2837%29.png)
 
 ## Development
 
@@ -59,7 +59,7 @@ As a service I wanted to add an automatic calculation for the mileage. The Emplo
 
 ![](../../.gitbook/assets/canvas-copy-5.png)
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 
 Finally, the last question of the type of car approach was about the level of luxury \(or amount of options\). In the ranking system, the level of luxury need to be ranked in the second question, it his case the level of luxury is provided in three levels:
 

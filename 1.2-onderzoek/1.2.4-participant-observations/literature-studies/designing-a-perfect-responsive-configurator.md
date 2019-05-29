@@ -16,7 +16,7 @@ As the presence of configurators is growing, so are theories of designing them. 
 
 In order to convince customers, Smashing Magazine tells to _strong highlight_ certain product features. As an example they mention the configurator of Harley Davidson, which displays a drawn motor frame, but highlight the possible wheels to create emphasis. Another option to motivate customers is to use presets. Presets help customers to identify the possibilities beforehand. In the end, it takes a lot effort within a complex system to configure the best outcome. 
 
-![](../../../.gitbook/assets/image%20%2834%29.png)
+![](../../../.gitbook/assets/image%20%2835%29.png)
 
 
 
@@ -48,7 +48,7 @@ It is up to the designer to choose how the implementation of the configuration w
 
 As not every part of content is as important, it is necessary to determine how you design the configurator interface. Smashing laughable emphasise how often users want to direct manipulate the product they are configuring. Direct manipulation means users wants to click on the part of the product they want to configure. In addition, Smashing mention the enormous number of users who keep clicking on the zoom button. Users particularly want to see detailed parts of the product, if they simply not able to do so, they start switching from angle and zoom in and out. If the product is shown well enough: centred and the possibility to see details, this behaviour did not appeared. With this information in mind, Smashing initiates to always display the configured product in every occasion. \(e.g. Helmade helmets\)
 
-![](../../../.gitbook/assets/image%20%2828%29.png)
+![](../../../.gitbook/assets/image%20%2829%29.png)
 
 The ideal resolution of the product, Smashing continues, should be 65% to 75 % vertical space for narrow screens and 45% to 50% horizontal space. The other space could excellently be used for the header, title, product details and the customisation options. Conclusively, Smashing say: _"The bottom line: The more space you can dedicate to the product’s visual while keeping the customisation controls easy to tap and access, the better."_
 

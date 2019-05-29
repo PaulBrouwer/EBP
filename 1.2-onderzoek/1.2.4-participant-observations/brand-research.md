@@ -10,7 +10,7 @@ Peugeot stands for motion and emotion. Peugeot is the world’s only brand to ma
 
 Their objective is to deliver a best-in-class driving experience, with powerful driving sensations and heightened customer emotions.
 
-![Brand Eye Peugeot](../../.gitbook/assets/image%20%2822%29.png)
+![Brand Eye Peugeot](../../.gitbook/assets/image%20%2823%29.png)
 
 #### Citroën
 
@@ -26,7 +26,7 @@ DS is a French brand born in Paris with the ambition of embodying French luxury 
 
 In 2017, DS Automobiles initiated a new phase in the roll-out of its strategy based on three pillars: exceptional cars, a multi-channel distribution network through the DS STORES and DS SALONS, and unique and personalised customer experience with the “Only You, the DS experience” programme of services and privileges. \(Groupe-PSA, 2019\)
 
-![Brand Eye DS Automobiles](../../.gitbook/assets/image%20%2832%29.png)
+![Brand Eye DS Automobiles](../../.gitbook/assets/image%20%2833%29.png)
 
 
 

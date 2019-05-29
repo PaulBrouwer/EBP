@@ -12,7 +12,7 @@ The first participant directly was curious why there was a question about the de
 
 The second question, about the monthly budget, was also a bit confusing for the participant as it was unclear if it was suppose to be the monthly budget in total \(how much money can someone spend per month\), or what someone would spend for their car per month. The participant again, checked the help section to check what it was. 
 
-The ranking system felt intuitive whenever the x had to rank the categories. Also, the follow up question about the fuel and transmission became clear directly. The fact that the transmission was not clickable if there was no option chosen for fuel, got positive reactions.
+The ranking system felt intuitive whenever they had to rank the categories. Also, the follow up question about the fuel and transmission became clear directly. The fact that the transmission was not clickable if there was no option chosen for fuel, got positive reactions.
 
 Whenever the participant got asked in which occasions the car would be used \(privately, work, both\), the 
 
