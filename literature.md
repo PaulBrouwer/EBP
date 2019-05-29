@@ -4,8 +4,7 @@ description: The page includes all the used sources.
 
 # Literature
 
-
-
+* Kelly Blue Book. \(n.d.\). The Gender Divide of Car Buying. Photograph. Retrieved from [https://www.cjponyparts.com/resources/men-vs-women-car-buying](https://www.cjponyparts.com/resources/men-vs-women-car-buying) 
 * Netflix Technology Blog. \(2018, June 21\). Artwork Personalization at Netflix. Retrieved January 27, 2019, from [https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76](https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76) 
 * Friedman, V. \(2018, February 19\). Designing A Perfect Responsive Configurator . Retrieved February 12, 2019, from [https://www.smashingmagazine.com/2018/02/designing-a-perfect-responsive-configurator/](https://www.smashingmagazine.com/2018/02/designing-a-perfect-responsive-configurator/) 
 * McKenzie, G. \(2018, November 23\). UI details: Testing the contact forms of Top Digital agencies. Retrieved February 13, 2019, from [https://blog.etch.team/ui-details-testing-the-contact-forms-of-top-digital-agencies-fbd0be17c04d?gi=d2ecf498529f](https://blog.etch.team/ui-details-testing-the-contact-forms-of-top-digital-agencies-fbd0be17c04d?gi=d2ecf498529f) 

@@ -4,11 +4,11 @@ The Employee Benefit Program was set up by Peugeot to fix the mobility programs 
 
 _Do you know anything about cars?_
 
-"No, I am a real newbie when it comes to cars. I got my driver's licenses a year and a half ago, but as I am living in the centre of Amsterdam, It is not really practical to drive a car. I rarely drive, only when I borrow the car of my parents."
+"No, I am a real newbie when it comes to cars. I got my driver's licenses a year and a half ago, but as I am living in the centre of Amsterdam, It is not really practical to drive a car. I rarely drive, only when I borrow my parent's car."
 
 _Whenever you can choose for car, what is the first thing you look at?_
 
-In the first place, I want to have car looks nice. It has to be cute. 
+In the first place, I want to the car too looks nice. It has to be cute. 
 
 _What, in your opinion, is nice or cute?_
 
