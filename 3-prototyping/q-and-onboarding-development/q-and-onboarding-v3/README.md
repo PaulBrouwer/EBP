@@ -19,8 +19,6 @@ I selected six different categories users could choose between:
 
 Based on these six categories the system should be able to make combinations for every type of car. At the first version, I described the reason why the question about budget did not work. As a model has multiple variants, a cheap model with a lot options could be as expensive as a bigger model with no options. Within this questionnaire I can generate more combination based on the categories and their ranking. 
 
-~~When, for example, a user wants a small luxury car that is low on consumption, luxury and consumption will be ranked first. Capacity, on the other hand will be ranked at last, because the users wants a small car.~~ 
-
 As a model has multiple variants, a cheap model with a lot options could be as expensive as a bigger model with no options. This questionnaire can generate all this combination, based on the ranking users do. When a user for example ranks luxury in the top 3, and capacity as last, the system knows to search for smaller cars with more options. The same goes for power and sustainability. If a user wants a fast car and also wants it to be sustainable, the system is likely to go for electric car with high acceleration.
 
 The categories are defined as follows:
