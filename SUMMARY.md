@@ -44,7 +44,7 @@
     * [Interview \#3 Project Manager at Ymere](4-follow-up-research/interviews/interview-3-project-manager-at-ymere.md)
   * [Q&Onboarding V4.1 & V4.2 Development](4-follow-up-research/q-and-onboarding-v4/README.md)
     * [Tests Q&Onboarding V4.1 & V4.2](4-follow-up-research/q-and-onboarding-v4/q-and-onboarding-v4.1-and-v4.2.md)
-  * [Scenario's](4-follow-up-research/scenarios-job-stories.md)
+  * [Scenarios](4-follow-up-research/scenarios-job-stories.md)
   * [Q&Onboarding Final](4-follow-up-research/q-and-onboarding-final.md)
 * [∞: Requirement list](4-documentation.md)
 * [Literature](literature.md)

@@ -1,4 +1,4 @@
-# Scenario's
+# Scenarios
 
 #### Introduction
 
