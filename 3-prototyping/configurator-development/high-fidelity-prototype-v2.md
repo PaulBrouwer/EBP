@@ -34,29 +34,33 @@ Lastly, the 'direct request' was removed at the footer and replaced with a next 
 
 ![Version 1 of the footer](../../.gitbook/assets/configurator-footer-v1%20%281%29.png)
 
-
-
 ![Version 2 of the footer](../../.gitbook/assets/configurator-footer-v2.png)
 
 #### Duration  & Mileage
 
+Another small part of the layout I changed, was the selection duration and mileage. In the first version the duration and mileage section was small and hard to read. It did not take the whole car section width, which therefore became a floating piece of content. The second version made more user of space. It took the whole car section width and at the same time, made use of more white space. I added more white space to the captions 'duration'  and 'mileage' and made the captions bold. Additionally, I changed the way users could change both amounts. In the first version, the users had very small minus and plus icons to click on, which were hardly accesible. In the second version, instead of using minus and plus icons, I made use of chevrons. In this way the duration could be changed even more easily, and faster. 
+
+![Version 1 of Duration &amp; Milage selection](../../.gitbook/assets/configurator-durationmileage-v1.png)
+
+![Version 2 of Duration &amp; Milage selection](../../.gitbook/assets/configurator-durationmileage-v2.png)
+
+#### Option selection
+
+The fourth element of the layout I changed was the option selector, both the design and interaction. Firstly the design, in the first design the title and price of the option were both small and difficult to read. Especially the price was hard to read, because the margins where minimal and the color was very light. I found the solution for the problem by editing the option in a couple ways. First I decided to remove the price as a subtitle and aligned it with the title. The price directly became more noticeable and accessible. And second, I decided that whenever a title became to 'long', only the necessary part would be shown. To learn more about the option, users could acces it by clicking on the information tooltip.  
+
+Secondly, I changed the interaction. In the first version, the option concluded multiple states at once. To add more balance into the selected options, I created a 'no additions' state which will be active as a default option. Users do not have to deal with the uncertainty whether a option is selected or not, because the 'no additions' option is selected. 
 
 
-Another small part of the layout I changed, was the selection duration and mileage. In the first version the duration and mileage section was small and hard to read. It did not take the whole car section width, which therefore became a floating piece of content. The second version made more user of space. It took the whole car section width and at the same time, made use of more white space. I added more white space to the captions 'duration'  and 'mileage' and made the captions bold. Additionally, I changed the way users could change both amounts. In the first version, the users had very small minus and plus icons to click on, which were hardly accesible. in the ==
-
-![](../../.gitbook/assets/configurator-durationmileage-v1.png)
-
-![](../../.gitbook/assets/configurator-durationmileage-v2.png)
 
 
 
+### Configurator
 
+#### Step 1: Version Selection
 
+The second version of the version selection included some smal changes. Firstly, I decided to remove the filters for transmission and fuelkind and move to a separated step in the configurator. Based on the chosen version users will find out whether the version has different options for fuel kind or transmission. 
 
-
-
-
-![Second version of version](../../.gitbook/assets/version.png)
+![](../../.gitbook/assets/version.png)
 
 
 
