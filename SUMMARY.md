@@ -36,6 +36,7 @@
     * [Sketches](3-prototyping/configurator-development/paper-prototype.md)
     * [Styleguide](3-prototyping/configurator-development/styleguide-1.md)
     * [High Fidelity Prototype](3-prototyping/configurator-development/high-fidelity-prototype.md)
+    * [High fidelity Prototype V2](3-prototyping/configurator-development/high-fidelity-prototype-v2.md)
 * [\#4 Follow up research](4-follow-up-research/README.md)
   * [Greenlight Presentation](4-follow-up-research/greenlight-presentation.md)
   * [Interviews](4-follow-up-research/interviews/README.md)
