@@ -12,11 +12,11 @@ First of all, for all steps through the process, I edited the layout as a whole.
 
 At the same time I decide to remove the header navigation, I also decided to edit the breadcrumbs. In the first version, I used three upper navigations: the header navigation, the website breadcrumbs \(to indicate the location of the user at the website\), and the configurator breadcrumbs. As seen in the image below, the three levels of navigations confiscated a big part of the layout of the configurator. In addition, while there are three levels of navigation, I also implemented five different colors: black, navy, gray, brown and white.
 
-Confiscating layout space and use of color, made me realise the configutor layout needed to be edited. Therefore, I made white color based breadcrumbs less color differences. In the first place, the background color was changed to white, to make this primarily. Secondly, to indicate at which step of the process the user was located, I changed the layout of the step that is active \(active state\). In the first version I designed the active step to have brown background, with a big uppercase font. Too comply with the new challenge; make the layout more breath, I edited the active state, by giving a red underline. This made the indication more subtle, and still recognisable due to the white background space. As third, to add more focus on the active state, I decided to make the changed to opacity of the other, not yet confirmed steps, to 50%. This brings me to the last change. While the steps that not have been confirmed yet got 50% opacity, I designed an indication of the confirmed steps, at the same time. Namely, when a user gets from step one to two, the first step remains the full 100% color. This will guide the users that the steps before the active state are already have been confirmed, and the steps after the active step still need to be confirmed.
+Confiscating layout space and use of color, made me realise the configurator layout needed to be edited. Therefore, I made white color based breadcrumbs with less color differences. In the first place, the background color was changed to white, to make this primarily. Secondly, to indicate at which step of the process the user was located, I changed the layout of the step that is active \(active state\). In the first version I designed the active step to have brown background, with a big white uppercase font. Too comply with the new challenge; make the layout more breath, I edited the active state, by giving a red underline. This made the indication more subtle, and still recognisable due to the white background space. As third, to add more focus on the active state, I decided to make the changed to opacity of the other, not yet confirmed steps, to 50%. This brings me to the last change. While the steps that not have been confirmed yet got 50% opacity, I designed an indication of the confirmed steps, at the same time. Namely, when a user gets from step one to two, the first step remains the full 100% color. This will guide the users that the steps before the active state are already have been confirmed, and the steps after the active step still need to be confirmed.
 
---&gt; benoem Keurmerk private lease --&gt; je krijgt het als bedrijf --&gt; oddits.
-
-
+{% hint style="info" %}
+Besides the changes of the breadcrumbs steps, I added the certification for private lease. As the design challenge states that the configuration should be a trustwothy environment, I wanted the certifcation to be displayed at all time. 
+{% endhint %}
 
 ![Version 1 configurator top](../../.gitbook/assets/breadcrumbs-configurator-v1.jpg)
 
@@ -60,7 +60,9 @@ Secondly, I changed the interaction. In the first version, the option concluded 
 
 #### Tooltip information
 
-Lorem ipsum
+Whenever a user does not understand something about a possible feature or option, a tooltip modal \(pop up\) will provide more information. When clicking on the information icon within the option selection the modal will open. The model shows a bigger image of the feature or option and a broader explanation. From there the user can, again, decide to add this feature or option to the configuration or simply close the modal by clicking on the close button in the upper right corner. 
+
+![](../../.gitbook/assets/configurator-tooltip.jpg)
 
 ### 
 
