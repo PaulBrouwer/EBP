@@ -10,6 +10,8 @@ Thirdly, when the expert was filling in the form, the expert discovered that the
 
 Another inconsistency occured when the expert saw differences in the display of the prices. At the option selection I used the price inlign, and in the footer I used superscript. The expert said I should keep that in one style to be consistent. 
 
+The expert continue giving feedback, and mentioned a small detail at the additional options step. At some point, the user has to choose for Private Lease FLEX. The description of the Private Lease FLEX offers a more flexibli contract. Only, the user probably does not know what the contract includes. Therefore, the expert mentioned to provide a hyperlink to the terms of agreement. In this way the user does not have to leave the configurator.
+
 The expert continued by giving me a funny insight. At the end of the form, users have to upload  documents. One of the documents contains the users identification. At Mollie one of the most common mistake by users was the uploading of documents. He said that, when we ask users to upload the 'front' of their identification, users literally were uploading the front of their passports. Therefore he suggested that the affordance should be excellent. He mentioned a placeholder or a visuel clue that says how to upload it. 
 
 

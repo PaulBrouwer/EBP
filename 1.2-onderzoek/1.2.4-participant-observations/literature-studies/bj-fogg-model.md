@@ -21,7 +21,8 @@ The model is very easy to implement because anytime you want better understandin
 * Is someone motivated enough?
 * Is someone capable of performing the desired behaviour?
 * Did we remind/ask them to perform the desired behaviour?
-* I will elaborate on the three elements of the model in the next section.
+
+I will elaborate on the three elements of the model in the next section.
 
 ### Trigger
 
@@ -42,7 +43,7 @@ A person's ability is essential to perform a certain behaviour. If you want to i
 1. Time
 2. Money
 3. Physical Effort
-4. Brain Cycles \(A performance that requires a lot of thinking, simply becomes hard fulfil\)
+4. Brain Cycles \(A performance that requires a lot of thinking, simply becomes hard to fulfill\)
 5. Social deviance \(Breaking the rules can be a barrier to perform\)
 6. Non-routine \(If behaviour is out of the persons ‘habit’ it simply becomes more
 7. difficult to perform, because if not they are able to use their ‘autopilot’\)
